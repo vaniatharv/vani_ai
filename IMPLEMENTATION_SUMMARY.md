@@ -38,38 +38,6 @@ You now have a **complete, production-ready PyTorch training pipeline** for bina
    - Support for single image and batch inference
    - Automatic image preprocessing and postprocessing
 
-### Documentation Files
-
-4. **`TRAINING_GUIDE.md`** - Comprehensive guide covering:
-   - Dataset preparation and directory structure
-   - Training setup (basic and advanced)
-   - Google Colab integration
-   - Inference examples (single, batch, evaluation)
-   - Hyperparameter tuning strategies
-   - Troubleshooting guide
-
-5. **`COMPLETE_GUIDE.md`** - In-depth technical documentation:
-   - Architecture details with diagrams
-   - Input/output specifications
-   - Encoder/decoder path explanation
-   - Loss function rationale
-   - Training workflow details
-   - Inference step-by-step guide
-   - Configuration parameters
-   - Memory requirements table
-   - Expected performance metrics
-   - Data format requirements
-
-6. **`COLAB_QUICKSTART.py`** - Ready-to-copy Google Colab script:
-   - Google Drive mounting
-   - Dependency installation
-   - Dataset loading
-   - Training execution
-   - Results visualization
-   - Inference example
-
-7. **`requirements.txt`** - All dependencies for pip install
-
 ---
 
 ## 🎨 Architecture Specifications

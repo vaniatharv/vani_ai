@@ -318,6 +318,8 @@ for param in model.encoder.parameters():
 
 ## 🛠️ Requirements
 
+---
+## 🛠️ Requirements
 | Package | Minimum Version |
 |---------|----------------|
 | torch | 2.0.0 |
